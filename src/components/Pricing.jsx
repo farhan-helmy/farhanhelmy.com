@@ -31,13 +31,13 @@ export default function Pricing() {
     <div className="isolate">
       <div className="mx-auto max-w-7xl px-6 pb-96 pt-24 text-center sm:pt-32 lg:px-8">
         <div className="mx-auto max-w-4xl">
-          <p className="mt-2 text-4xl font-bold tracking-tight text-white sm:text-5xl">
+          <p className="mt-2 text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-10 sm:text-5xl">
             The right price for you, <br className="hidden sm:inline lg:hidden" />
             whoever you are
           </p>
         </div>
         <div className="relative mt-6">
-          <p className="mx-auto max-w-2xl text-lg leading-8 text-white/60">
+          <p className="mx-auto max-w-2xl text-lg leading-8 text-zinc-600 dark:text-white/60">
             I`m available for hire. If you need help with your software development project or AWS stuff, feel free to contact me.
           </p>
           <svg
