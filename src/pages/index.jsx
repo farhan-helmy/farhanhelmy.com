@@ -252,12 +252,12 @@ export default function Home({ articles }) {
             Software developer, AWS enthusiast.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Hi, I'm Farhan, a software engineer at Servicerocket with a passion
+            Hi, I&apos;m Farhan, a software engineer at Servicerocket with a passion
             for creating robust, scalable software solutions. I also do
             freelance AWS consulting and software development on the side. My
-            expertise lies in building complex systems on AWS, and I'm always
+            expertise lies in building complex systems on AWS, and I&apos;m always
             eager to take on new challenges. Explore my portfolio to learn more
-            about my skills and experience, and feel free to reach out if you're
+            about my skills and experience, and feel free to reach out if you&apos;re
             interested in working together.
           </p>
           <div className="mt-6 flex gap-6">
