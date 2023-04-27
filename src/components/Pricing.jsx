@@ -31,7 +31,7 @@ export default function Pricing() {
     <div className="isolate">
       <div className="mx-auto max-w-7xl px-6 pb-96 pt-24 text-center sm:pt-32 lg:px-8">
         <div className="mx-auto max-w-4xl">
-          <p className="mt-2 text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-10 sm:text-5xl">
+          <p className="mt-2 text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
             The right price for you, <br className="hidden sm:inline lg:hidden" />
             whoever you are
           </p>
